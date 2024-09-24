@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "firstName": "Murphy",
+  "lastName": "Holmes",
+  "email": "luctus@mailinator.com",
+  "programme": "Financial Analysis",
+  "courses": [
+    "Accounting",
+    "Statistics"
+  ]
+}
