@@ -1,4 +1,4 @@
-Api testing with Serenity Restassured with Junit5
+Api testing with Serenity Restassured and Junit5
 
 
 To run this project 'Java 17 is required'
